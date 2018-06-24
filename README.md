@@ -8,3 +8,5 @@ Please rely only on your peers and download exercise instructions only from the 
 
 
 I completed this Piscine and passed the final exam. There is a screenshot of the email I got from 42SiliconValley in the cheatsheets and info file as proof.
+
+Thanks to every friend who helped me through the Piscine. I also included some of their code in the repo as well.
